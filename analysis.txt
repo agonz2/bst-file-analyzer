@@ -1,0 +1,6 @@
+Alexander Gonzalez Ramirez
+BST TREE ANALYSIS
+
+Total Nodes   :  9732 
+Tree Height   :  30   
+Maximum Nodes :  1073741823

@@ -1,6 +1,5 @@
-Alexander Gonzalez Ramirez
-BST TREE ANALYSIS
-
+BINARY SEARCH TREE ANALYZER
+File Analyzed: /Users/alexgr/Documents/VSCode/CS2050/dracula-bst-tree/src/dracula.txt
 Total Nodes   :  9732 
 Tree Height   :  30   
 Maximum Nodes :  1073741823

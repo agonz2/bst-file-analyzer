@@ -1,9 +1,6 @@
 package src;
-/*
- * Alexander Gonzalez Ramirez
- */
 
- class BSTNode {
+class BSTNode {
     String key;
     BSTNode left, right;
 
